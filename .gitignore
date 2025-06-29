@@ -1,0 +1,4 @@
+# Ignoriere temporäre Dateien
+*.log
+__pycache__/
+.DS_Store
