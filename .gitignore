@@ -1,4 +1,5 @@
-# Ignoriere temporäre Dateien
+# Ignore temporary files
 *.log
 __pycache__/
 .DS_Store
+venv/
